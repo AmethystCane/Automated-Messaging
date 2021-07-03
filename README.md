@@ -1,5 +1,5 @@
 # Automated-Messaging
-You can add anything you want to the text file. Personally I used the opening scrpit for Zootopia since it is one of my favourite movies 🙌
+**You can add anything you want to the text file. Personally I used the opening scrpit for Zootopia since it is one of my favourite movies 🙌**
 
 1) Download the files
 2) Increase the timer depending on how quickly you can place your cursor on where it is you want to send the messages
